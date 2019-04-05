@@ -1,0 +1,329 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/beastudi
+Data file = /opt/lampp/htdocs/beastudi/wp-content/uploads/2019/03/perth-demo.xml
+Widget file = /opt/lampp/htdocs/beastudi/wp-content/uploads/2019/03/perth-settings.xml
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "ipad-606766_1280" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "iphone" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "iphone" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "iphone" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "iphone" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "iphone" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "iphone" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "iphone" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "iphone" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "iphone" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "iphone" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "iphone" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "iphone" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+[ERROR] Failed to import "puzzle-654957_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+[ERROR] Failed to import "imac-606765_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+[ERROR] Failed to import "imac-606765_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "urban-438393_1280" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "ipad-606764_1280" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Client 1": Invalid post type clients
+[WARNING] Failed to import "Client 2": Invalid post type clients
+[WARNING] Failed to import "Client 3": Invalid post type clients
+[WARNING] Failed to import "Client 4": Invalid post type clients
+[WARNING] Failed to import "Client 5": Invalid post type clients
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Client 1": Invalid post type clients
+[WARNING] Failed to import "Client 2": Invalid post type clients
+[WARNING] Failed to import "Client 3": Invalid post type clients
+[WARNING] Failed to import "Client 4": Invalid post type clients
+[WARNING] Failed to import "Client 5": Invalid post type clients
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Client 1": Invalid post type clients
+[WARNING] Failed to import "Client 2": Invalid post type clients
+[WARNING] Failed to import "Client 3": Invalid post type clients
+[WARNING] Failed to import "Client 4": Invalid post type clients
+[WARNING] Failed to import "Client 5": Invalid post type clients
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Client 1": Invalid post type clients
+[WARNING] Failed to import "Client 2": Invalid post type clients
+[WARNING] Failed to import "Client 3": Invalid post type clients
+[WARNING] Failed to import "Client 4": Invalid post type clients
+[WARNING] Failed to import "Client 5": Invalid post type clients
+[ERROR] Failed to import "city-731296_1280" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Client 1": Invalid post type clients
+[WARNING] Failed to import "Client 2": Invalid post type clients
+[WARNING] Failed to import "Client 3": Invalid post type clients
+[WARNING] Failed to import "Client 4": Invalid post type clients
+[WARNING] Failed to import "Client 5": Invalid post type clients
+[ERROR] Failed to import "book-731199_1280" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Client 1": Invalid post type clients
+[WARNING] Failed to import "Client 2": Invalid post type clients
+[WARNING] Failed to import "Client 3": Invalid post type clients
+[WARNING] Failed to import "Client 4": Invalid post type clients
+[WARNING] Failed to import "Client 5": Invalid post type clients
+[ERROR] Failed to import "business-690675_1280" (Media)
+
